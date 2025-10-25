@@ -2,8 +2,8 @@
 {
   "devices": {
     "GL120_GAS_1": {
-      "version": "1.2",
-      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/GL120_GAS_1/main/GL120_GAS_1_v1.2.bin",
+      "version": "1.3",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/GL120_GAS_1/main/GL120_GAS_1_v1.3.bin",
       "force": false
     }
   }
